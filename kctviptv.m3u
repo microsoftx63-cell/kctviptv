@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="KCTV" tvg-name="Korean Central Television" group-title="Propaganda",Korean Central Television
+https://kctv.koryofront.org/stream/index.m3u8
